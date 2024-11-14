@@ -13,6 +13,8 @@ Source 1: USA BLS - https://www.bls.gov/opub/btn/volume-5/the-high-tech-industry
 
 Source 2: International Trade Administration - https://www.trade.gov/sites/default/files/2021-10/High%20Tech%20Brief%20FINAL.pdf
 
+Source 3: Federal Reserve - https://www.federalreserve.gov/econres/notes/feds-notes/high-tech-business-entry-in-the-pandemic-era-20240419.html
+
 What counts as benefit? Consider economic (obvious) as well as social (latent) effects.
 
 Why can statistics correctly explain any effect if we can only model equity prices and therefore portfolio values as random walks? - https://web.stanford.edu/~rehall/Stochastic-JPE-Dec-1978.pdf
