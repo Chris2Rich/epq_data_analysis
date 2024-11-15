@@ -1,4 +1,4 @@
-#Majority of data is USA oriented.
+# Majority of data is USA oriented.
 
 Source of companies is https://companiesmarketcap.com/
 Source of financial data is 10-Q reports at https://www.sec.gov/
