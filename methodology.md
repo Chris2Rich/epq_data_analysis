@@ -7,16 +7,16 @@ Source of financial data is 10-Q reports at https://www.sec.gov/
 Source of salary data is https://www.bls.gov/oes/
 Source of inflation data is https://www.bls.gov/cpi/
 
-Serious Questions:
+## Serious Questions:
 
 What counts as a high tech corportation? Use combination of consensus as given by various technologically developed governments as well as disgression although this needs to be justified.
 
 ##Source USA:
 Source 1: USA BLS - https://www.bls.gov/opub/btn/volume-5/the-high-tech-industry-what-is-it-and-why-it-matters-to-our-economic-future.htm
 
-Source 2: International Trade Administration - https://www.trade.gov/sites/default/files/2021-10/High%20Tech%20Brief%20FINAL.pdf
+- Source 2: International Trade Administration - https://www.trade.gov/sites/default/files/2021-10/High%20Tech%20Brief%20FINAL.pdf
 
-Source 3: Federal Reserve - https://www.federalreserve.gov/econres/notes/feds-notes/high-tech-business-entry-in-the-pandemic-era-20240419.html
+- Source 3: Federal Reserve - https://www.federalreserve.gov/econres/notes/feds-notes/high-tech-business-entry-in-the-pandemic-era-20240419.html
 
 ##Source CHN: 
 Chinese Search: https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&tn=baidu&wd=%E6%94%BF%E5%BA%9C%E8%AE%A4%E4%B8%BA%E4%BB%80%E4%B9%88%E6%98%AF%E9%AB%98%E7%A7%91%E6%8A%80&fenlei=256&rsv_pq=0xf4b5357d0052ab52&rsv_t=06a1JFFVwhfg9ucQptQH8%2FkC2jfZ93Y2NZSZB8xF1nzvxa5FKVXtCKFgM8hr&rqlang=en&rsv_dl=ib&rsv_enter=1&rsv_sug3=2&rsv_n=2
