@@ -12,7 +12,9 @@ Source of inflation data is https://www.bls.gov/cpi/
 What counts as a high tech corportation? Use combination of consensus as given by various technologically developed governments as well as disgression although this needs to be justified.
 
 ## Source USA:
-Source 1: USA BLS - https://www.bls.gov/opub/btn/volume-5/the-high-tech-industry-what-is-it-and-why-it-matters-to-our-economic-future.htm
+- Source 1: USA BLS - https://www.bls.gov/opub/btn/volume-5/the-high-tech-industry-what-is-it-and-why-it-matters-to-our-economic-future.htm
+
+- Source 1.1: USA BLS - https://www.bls.gov/opub/btn/volume-7/high-tech-industries-an-analysis-of-employment-wages-and-output.htm
 
 - Source 2: International Trade Administration - https://www.trade.gov/sites/default/files/2021-10/High%20Tech%20Brief%20FINAL.pdf
 
