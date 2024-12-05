@@ -11,6 +11,9 @@ Source of inflation data is https://www.bls.gov/cpi/
 
 What counts as a high tech corportation? Use combination of consensus as given by various technologically developed governments as well as disgression although this needs to be justified.
 
+## Source International:
+- Source 1: OECD - https://web-archive.oecd.org/2012-06-14/94096-48350231.pdf
+  
 ## Source USA:
 - Source 1: USA BLS - https://www.bls.gov/opub/btn/volume-5/the-high-tech-industry-what-is-it-and-why-it-matters-to-our-economic-future.htm
 
@@ -20,13 +23,16 @@ What counts as a high tech corportation? Use combination of consensus as given b
 
 - Source 3: Federal Reserve - https://www.federalreserve.gov/econres/notes/feds-notes/high-tech-business-entry-in-the-pandemic-era-20240419.html
 
+- Source 4: National Science Foundation - https://wayback.archive-it.org/5902/20240531184518/https://www.nsf.gov/statistics/2016/nsb20161/
+
+
 ## Source CHN: 
 Chinese Search: https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&tn=baidu&wd=%E6%94%BF%E5%BA%9C%E8%AE%A4%E4%B8%BA%E4%BB%80%E4%B9%88%E6%98%AF%E9%AB%98%E7%A7%91%E6%8A%80&fenlei=256&rsv_pq=0xf4b5357d0052ab52&rsv_t=06a1JFFVwhfg9ucQptQH8%2FkC2jfZ93Y2NZSZB8xF1nzvxa5FKVXtCKFgM8hr&rqlang=en&rsv_dl=ib&rsv_enter=1&rsv_sug3=2&rsv_n=2
 
-Source 1: Xinhua News Agency (CCP Controlled) - http://www.sxbb.gov.cn/info/8332
+- Source 1: Xinhua News Agency (CCP Controlled) - http://www.sxbb.gov.cn/info/8332
 Names focus on "artificial intelligence, photovoltaics, lithium batteries, and synthetic biology" which are fields in which China is a major contender
 
-Source 2: Official CCP Interview - https://www.gov.cn/zxft/ft231/ https://www.gov.cn/zxft/ft231/content_2189421.htm
+- Source 2: Official CCP Interview - https://www.gov.cn/zxft/ft231/ https://www.gov.cn/zxft/ft231/content_2189421.htm
 
 What counts as benefit? Consider economic (obvious) as well as social (latent) effects.
 
